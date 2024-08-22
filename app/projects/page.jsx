@@ -14,7 +14,7 @@ const ProjectsPage = async () => {
         className="flex items-center space-x-4 font-semibold pb-6 text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-200"
       >
         <FaArrowLeftLong className="w-6 h-6 fill-current" />
-        <span>Back to Home</span>
+        <span className="rounded p-1 hover:bg-[#DB2777]" >Back to Home</span>
       </Link>
 
       {/* projects... */}
