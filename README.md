@@ -2,7 +2,7 @@
 
 Bu modern portföy projesi, Next.js ve React gibi ileri teknolojiler kullanılarak oluşturulmuştur ve becerilerimi ve projelerimi kullanıcı dostu bir arayüzde sergiler. Proje, karanlık ve aydınlık mod seçenekleri sunarak tema değiştirme özelliği ile dikkat çeker. Ayrıca, mobil ve masaüstü cihazlara uyumlu responsive tasarım sayesinde her ekranda mükemmel bir deneyim sunar. Framer Motion ile yapılan animasyonlar, siteye dinamik ve çekici bir görünüm kazandırır, projelerimi etkileyici bir şekilde öne çıkarır.
 
-## Kullanılan Kütüphaneler
+### Kullanılan Kütüphaneler
 
 - JavaScript
 - Next.js
@@ -14,11 +14,11 @@ Bu modern portföy projesi, Next.js ve React gibi ileri teknolojiler kullanılar
 - Tailwindcss/typography
 - React-type-animation
 
-## Gif
+### Gif
 
 <img src="./public/Aug-26-2024 09-40-46.gif"/>
 
-##  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
+###  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
 
 
 
