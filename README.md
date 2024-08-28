@@ -34,6 +34,6 @@ Endpoint that allows low latency and high read-throughput content delivery.
 
 https://eu-central-1-shared-euc1-02.cdn.hygraph.com/content/clz5h8iy402ev07wdo0hpw1u5/master
 
-
+hata çözümleme 
 
 
