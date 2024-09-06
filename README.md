@@ -18,7 +18,7 @@ Bu modern portföy projesi, Next.js ve React gibi ileri teknolojiler kullanılar
 
 <img src="./public/Aug-26-2024 09-40-46.gif"/>
 
-###  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
+###  Designed by <a href="https://www.linkedin.com/in/huseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
 
 
 
